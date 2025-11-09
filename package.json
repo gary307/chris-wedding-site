@@ -9,6 +9,7 @@
     "test": "vitest run"
   },
   "dependencies": {
+    "@netlify/vite-plugin": "^2.7.11",
     "@tailwindcss/vite": "^4.0.6",
     "@tanstack/react-devtools": "^0.7.0",
     "@tanstack/react-router": "^1.132.0",
