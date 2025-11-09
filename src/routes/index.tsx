@@ -20,6 +20,11 @@ function App() {
 					<p>Capetown 21st of October 2026.</p>
 				</div>
 
+				<img
+					src="/wedding-image-2.png"
+					alt="wedding"
+					className="mx-auto mb-4 w-auto w-full h-auto"
+				/>
 				<div className="flex flex-col gap-4 text-center max-w-[800px] m-auto">
 					<h2>The place</h2>
 
@@ -27,24 +32,6 @@ function App() {
 						We’re getting hitched in the beautiful Webersburg Wine Farm.
 						Surrounded by stunning nature with views of Table Mountain. Just
 						half an hour from the city. Take a tour here LINK
-					</p>
-				</div>
-
-				<div className="flex flex-col gap-4 text-center max-w-[800px] m-auto">
-					<h2>The place</h2>
-
-					<p>
-						We’re keeping it simple. The ultimate gift for us would be a
-						contribution to our honeymoon fund. You can make a donation here.
-					</p>
-				</div>
-
-				<div className="flex flex-col gap-4 text-center max-w-[800px] m-auto">
-					<h2>The day.</h2>
-
-					<p>
-						An unforgettable day celebrating with love, laughter, fine wine and
-						dancing beneath the stars. Full details to follow.
 					</p>
 				</div>
 
@@ -65,6 +52,12 @@ function App() {
 						for a Capetonian summer’s day.
 					</p>
 				</div>
+
+				<img
+					src="/wedding-img-1.png"
+					alt="wedding"
+					className="mx-auto mb-4 w-auto w-full h-auto"
+				/>
 
 				<div className="flex flex-col gap-4 text-center max-w-[800px] m-auto">
 					<h2>RSVP</h2>
